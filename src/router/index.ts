@@ -1,7 +1,7 @@
-import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter, createWebHashHistory } from 'vue-router'
 import Overview from '../views/Overview/index.vue'
 import Placeholder from '../views/Placeholder/index.vue'
-export default createRouter({ history: createWebHistory(), routes: [
+export default createRouter({ history: createWebHashHistory(import.meta.env.BASE_URL), routes: [
   { path: '/', redirect: '/overview' },
   { path: '/overview', component: Overview, meta: { title: '总览' } },
   { path: '/multi-analysis', component: Placeholder, meta: { title: '多维分析' } },
