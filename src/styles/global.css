@@ -56,6 +56,8 @@
 .summary-main,.summary-side{text-align:left}
 .summary-body{align-items:start}
 .summary-side{padding-top:0}
+.summary-value{display:flex;align-items:baseline;min-height:32px}
+.summary-body .summary-meta{margin:12px 0 0;min-height:22px;flex-wrap:wrap}
 @media(min-width:1201px){
   .primary-analysis-grid>.element-card-grid-item{grid-column:2 / 3!important;min-width:0;width:100%}
   .primary-analysis-grid>.business-rank-grid-item{grid-column:3 / 4!important;min-width:0;width:100%}

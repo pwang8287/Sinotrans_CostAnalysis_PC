@@ -27,8 +27,18 @@ function openDetail(title:string){selected.value=title;showDetail.value=true}
   <div class="filter-row"><el-select v-model="store.filters.org" filterable placeholder="请选择组织" class="filter-control organization-filter" aria-label="组织" size="small" style="width:260px;max-width:100%"><el-option v-for="item in organizationOptions" :key="item.code" :label="item.label" :value="item.value"><span :title="item.name">{{ item.label }}</span></el-option></el-select><el-date-picker v-model="store.filters.period" class="filter-control" type="month" value-format="YYYY-MM" format="YYYY年M月" size="small" style="width:135px"/><el-select v-model="business" class="filter-control" size="small" style="width:155px"><el-option v-for="x in businessOptions" :key="x" :label="x" :value="x"/></el-select><span class="update-time">数据更新时间：2026-07-24</span></div>
   <section class="summary-row"><article v-for="card in visibleSummaryCards" :key="card.title" :class="['summary-card', `summary-card--${card.tone}`]">
     <div class="summary-head"><div class="summary-title"><span class="summary-icon">{{ card.icon }}</span><b>{{ card.title }}</b><el-tooltip content="指标按原始精度计算，展示层统一格式化" placement="top"><span class="info-dot">i</span></el-tooltip></div></div>
-    <div class="summary-body"><div class="summary-main"><small>{{ card.mainLabel }}</small><strong>{{ formatValue(card.main) }}</strong><span class="unit">{{ card.unit || '亿元' }}</span></div><div class="summary-side"><small>{{ card.sideLabel }}</small><b>{{ formatValue(card.side) }}</b><span class="unit">{{ card.unit || '万元' }}</span></div></div>
-    <div class="summary-meta"><span>同比</span><em :class="['trend-pill', cardChange(card.change, card.unit).tone]">{{ cardChange(card.change, card.unit).icon }} {{ cardChange(card.change, card.unit).text }}</em><span>环比</span><em :class="['trend-pill', cardChange(0.38, card.unit).tone]">{{ cardChange(0.38, card.unit).icon }} {{ cardChange(0.38, card.unit).text }}</em></div>
+    <div class="summary-body">
+      <div class="summary-main">
+        <small>{{ card.mainLabel }}</small>
+        <div class="summary-value"><strong>{{ formatValue(card.main) }}</strong><span class="unit">{{ card.unit || '亿元' }}</span></div>
+        <div class="summary-meta"><span>同比</span><em :class="['trend-pill', cardChange(card.change, card.unit).tone]">{{ cardChange(card.change, card.unit).icon }} {{ cardChange(card.change, card.unit).text }}</em></div>
+      </div>
+      <div class="summary-side">
+        <small>{{ card.sideLabel }}</small>
+        <div class="summary-value"><b>{{ formatValue(card.side) }}</b><span class="unit">{{ card.unit || '万元' }}</span></div>
+        <div class="summary-meta"><span>环比</span><em :class="['trend-pill', cardChange(0.38, card.unit).tone]">{{ cardChange(0.38, card.unit).icon }} {{ cardChange(0.38, card.unit).text }}</em></div>
+      </div>
+    </div>
   </article></section>
   <div class="metrics-toggle"><button type="button" :aria-expanded="metricsExpanded" @click="metricsExpanded = !metricsExpanded"><span class="metrics-chevron" :class="{ rotated: metricsExpanded }" aria-hidden="true" />{{ metricsExpanded ? '收起指标' : '更多指标' }}</button></div>
   <section class="dashboard-grid primary-analysis-grid"><LinkCostCard /><CostElementCard /><BusinessLineRankCard /></section>
