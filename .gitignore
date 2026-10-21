@@ -1,5 +1,6 @@
 node_modules/
 dist/
+材料/
 .DS_Store
 *.tsbuildinfo
 vite.config.js
