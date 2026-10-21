@@ -1,0 +1,1124 @@
+[
+  {
+    "code": "0011GB",
+    "name": "中外运物流有限公司（合并）",
+    "shortName": "",
+    "parentCode": "1553GB"
+  },
+  {
+    "code": "00110006",
+    "name": "中外运物流有限公司威宁分公司",
+    "shortName": "物流威宁",
+    "parentCode": "0011GB"
+  },
+  {
+    "code": "0036GB",
+    "name": "中国深圳外轮代理有限公司（合并）",
+    "shortName": "",
+    "parentCode": "0011GB"
+  },
+  {
+    "code": "0036BGB",
+    "name": "中国深圳外轮代理有限公司本部（合并）",
+    "shortName": "",
+    "parentCode": "0036GB"
+  },
+  {
+    "code": "0036",
+    "name": "中国深圳外轮代理有限公司",
+    "shortName": "深圳外代",
+    "parentCode": "0036BGB"
+  },
+  {
+    "code": "00360001",
+    "name": "中国深圳外轮代理有限公司盐田分公司",
+    "shortName": "外代盐田",
+    "parentCode": "0036BGB"
+  },
+  {
+    "code": "0332BGB",
+    "name": "深圳市外代国际货运有限公司-（合并）",
+    "shortName": "",
+    "parentCode": "0036GB"
+  },
+  {
+    "code": "0332",
+    "name": "深圳市外代国际货运有限公司",
+    "shortName": "外代货运",
+    "parentCode": "0332BGB"
+  },
+  {
+    "code": "03320001",
+    "name": "深圳市外代国际货运有限公司天津分公司",
+    "shortName": "中山货运",
+    "parentCode": "0332BGB"
+  },
+  {
+    "code": "03320002",
+    "name": "深圳市外代国际货运有限公司昆明分公司",
+    "shortName": "外代货运昆明分公司",
+    "parentCode": "0332BGB"
+  },
+  {
+    "code": "03320003",
+    "name": "深圳市外代国际货运有限公司武汉分公司",
+    "shortName": "江门货运",
+    "parentCode": "0332BGB"
+  },
+  {
+    "code": "03320004",
+    "name": "深圳市外代国际货运有限公司东莞分公司",
+    "shortName": "佛山货运",
+    "parentCode": "0332BGB"
+  },
+  {
+    "code": "03320005",
+    "name": "深圳市外代国际货运有限公司潮州分公司",
+    "shortName": "东莞货运",
+    "parentCode": "0332BGB"
+  },
+  {
+    "code": "03320006",
+    "name": "深圳市外代国际货运有限公司厦门分公司",
+    "shortName": "外代货运厦门分公司",
+    "parentCode": "0332BGB"
+  },
+  {
+    "code": "03320007",
+    "name": "深圳市外代国际货运有限公司江门分公司",
+    "shortName": "宁波货运",
+    "parentCode": "0332BGB"
+  },
+  {
+    "code": "03320008",
+    "name": "深圳市外代国际货运有限公司汕头分公司",
+    "shortName": "昆明货运",
+    "parentCode": "0332BGB"
+  },
+  {
+    "code": "03320009",
+    "name": "深圳市外代国际货运有限公司佛山分公司",
+    "shortName": "青岛货运",
+    "parentCode": "0332BGB"
+  },
+  {
+    "code": "03320010",
+    "name": "深圳市外代国际货运有限公司顺德分公司",
+    "shortName": "外代货运顺德分公司",
+    "parentCode": "0332BGB"
+  },
+  {
+    "code": "03320011",
+    "name": "深圳市外代国际货运有限公司福州分公司",
+    "shortName": "武汉货运",
+    "parentCode": "0332BGB"
+  },
+  {
+    "code": "03320012",
+    "name": "深圳市外代国际货运有限公司青岛分公司",
+    "shortName": "汕头货运",
+    "parentCode": "0332BGB"
+  },
+  {
+    "code": "03320013",
+    "name": "深圳市外代国际货运有限公司中山分公司",
+    "shortName": "南宁货运",
+    "parentCode": "0332BGB"
+  },
+  {
+    "code": "03320014",
+    "name": "深圳市外代国际货运有限公司上海分公司",
+    "shortName": "潮州货运",
+    "parentCode": "0332BGB"
+  },
+  {
+    "code": "03320015",
+    "name": "深圳市外代国际货运有限公司南宁分公司",
+    "shortName": "广州货运",
+    "parentCode": "0332BGB"
+  },
+  {
+    "code": "03320016",
+    "name": "深圳市外代国际货运有限公司宁波分公司",
+    "shortName": "厦门货运",
+    "parentCode": "0332BGB"
+  },
+  {
+    "code": "03320017",
+    "name": "深圳市外代国际货运有限公司广州分公司",
+    "shortName": "福州货运",
+    "parentCode": "0332BGB"
+  },
+  {
+    "code": "03320022",
+    "name": "深圳市外代国际货运有限公司南京分公司",
+    "shortName": "货运公司南京分公司",
+    "parentCode": "0332BGB"
+  },
+  {
+    "code": "03320023",
+    "name": "深圳市外代国际货运有限公司漳州开发区分公司",
+    "shortName": "外代货运漳州",
+    "parentCode": "0332BGB"
+  },
+  {
+    "code": "0336",
+    "name": "深圳市外代仓储有限公司",
+    "shortName": "外代仓储",
+    "parentCode": "0036GB"
+  },
+  {
+    "code": "0337BGB",
+    "name": "深圳市外代报关有限公司-（合并）",
+    "shortName": "",
+    "parentCode": "0036GB"
+  },
+  {
+    "code": "0337",
+    "name": "深圳市外代报关有限公司",
+    "shortName": "外代报关",
+    "parentCode": "0337BGB"
+  },
+  {
+    "code": "03370001",
+    "name": "深圳市外代报关有限公司盐田分公司",
+    "shortName": "外代报关盐田分公司",
+    "parentCode": "0337BGB"
+  },
+  {
+    "code": "0338GB",
+    "name": "深圳市招商国际船舶代理有限公司（合并）",
+    "shortName": "",
+    "parentCode": "0036GB"
+  },
+  {
+    "code": "0338BGB",
+    "name": "深圳市招商国际船舶代理有限公司（总部合并）",
+    "shortName": "",
+    "parentCode": "0338GB"
+  },
+  {
+    "code": "00360015",
+    "name": "深圳市招商国际船舶代理有限公司防城港分公司",
+    "shortName": "招船防城",
+    "parentCode": "0338BGB"
+  },
+  {
+    "code": "0338",
+    "name": "深圳市招商国际船舶代理有限公司",
+    "shortName": "招商船舶",
+    "parentCode": "0338BGB"
+  },
+  {
+    "code": "03380001",
+    "name": "深圳市招商国际船舶代理有限公司盐田分公司",
+    "shortName": "深圳船舶代理",
+    "parentCode": "0338BGB"
+  },
+  {
+    "code": "03380002",
+    "name": "深圳市招商国际船舶代理有限公司上海分公司",
+    "shortName": "船代上海分公司",
+    "parentCode": "0338BGB"
+  },
+  {
+    "code": "03380008",
+    "name": "深圳市招商国际船舶代理有限公司湛江分公司",
+    "shortName": "船代湛江公司",
+    "parentCode": "0338BGB"
+  },
+  {
+    "code": "03380009",
+    "name": "深圳市招商国际船舶代理有限公司漳州分公司",
+    "shortName": "招船漳州",
+    "parentCode": "0338BGB"
+  },
+  {
+    "code": "1080GB",
+    "name": "广州市航商国际船舶代理有限公司（合并）",
+    "shortName": "",
+    "parentCode": "0338GB"
+  },
+  {
+    "code": "1080",
+    "name": "广州市航商国际船舶代理有限公司",
+    "shortName": "广州航商",
+    "parentCode": "1080GB"
+  },
+  {
+    "code": "10800002",
+    "name": "广州市航商国际船舶代理有限公司阳江分公司",
+    "shortName": "广州航商阳江分公司",
+    "parentCode": "1080GB"
+  },
+  {
+    "code": "1671",
+    "name": "深圳招商邮轮服务有限公司",
+    "shortName": "邮轮服务公司",
+    "parentCode": "0036GB"
+  },
+  {
+    "code": "0185GLGB",
+    "name": "外运物流华南区域（合并）",
+    "shortName": "",
+    "parentCode": "0011GB"
+  },
+  {
+    "code": "0180HBGLGB",
+    "name": "深圳公司汇总（合并）",
+    "shortName": "",
+    "parentCode": "0185GLGB"
+  },
+  {
+    "code": "0180GB",
+    "name": "招商局物流深圳有限公司（合并）",
+    "shortName": "",
+    "parentCode": "0180HBGLGB"
+  },
+  {
+    "code": "0180",
+    "name": "招商局物流深圳有限公司",
+    "shortName": "深圳物流",
+    "parentCode": "0180GB"
+  },
+  {
+    "code": "01800002",
+    "name": "招商局物流深圳有限公司东莞分公司",
+    "shortName": "物流东莞分",
+    "parentCode": "0180GB"
+  },
+  {
+    "code": "0449",
+    "name": "招商局建瑞运输有限公司",
+    "shortName": "蛇口建瑞",
+    "parentCode": "0180HBGLGB"
+  },
+  {
+    "code": "0490GB",
+    "name": "建瑞合并（合并）",
+    "shortName": "",
+    "parentCode": "0180HBGLGB"
+  },
+  {
+    "code": "0418",
+    "name": "广东广通运输有限公司",
+    "shortName": "广东广通",
+    "parentCode": "0490GB"
+  },
+  {
+    "code": "0445",
+    "name": "广东建力运输有限公司",
+    "shortName": "广东建力",
+    "parentCode": "0490GB"
+  },
+  {
+    "code": "0490",
+    "name": "招商局建瑞运输有限公司(香港注册)",
+    "shortName": "香港建瑞",
+    "parentCode": "0490GB"
+  },
+  {
+    "code": "0185HBGLGB",
+    "name": "华南公司汇总（合并）",
+    "shortName": "",
+    "parentCode": "0185GLGB"
+  },
+  {
+    "code": "0185GB",
+    "name": "中外运物流华南有限公司（合并）",
+    "shortName": "",
+    "parentCode": "0185HBGLGB"
+  },
+  {
+    "code": "0185",
+    "name": "中外运物流华南有限公司",
+    "shortName": "广州物流",
+    "parentCode": "0185GB"
+  },
+  {
+    "code": "01850004",
+    "name": "中外运物流华南有限公司佛山分公司",
+    "shortName": "佛山分公司",
+    "parentCode": "0185GB"
+  },
+  {
+    "code": "08720002",
+    "name": "中外运冷链物流（天津）有限公司广州分公司",
+    "shortName": "外运冷链广州",
+    "parentCode": "0185HBGLGB"
+  },
+  {
+    "code": "15870003",
+    "name": "中外运久凌储运有限公司广州分公司",
+    "shortName": "久凌广州分",
+    "parentCode": "0185HBGLGB"
+  },
+  {
+    "code": "21860008",
+    "name": "中国外运物流发展有限公司广州分公司",
+    "shortName": "物流发展广州",
+    "parentCode": "0185HBGLGB"
+  },
+  {
+    "code": "0188",
+    "name": "中外运物流珠海有限公司",
+    "shortName": "中外运物流珠海",
+    "parentCode": "0185GLGB"
+  },
+  {
+    "code": "0190",
+    "name": "中外运物流（惠州）有限公司",
+    "shortName": "惠州物流",
+    "parentCode": "0185GLGB"
+  },
+  {
+    "code": "0193GB",
+    "name": "中外运物流（福建）有限公司（合并）",
+    "shortName": "",
+    "parentCode": "0185GLGB"
+  },
+  {
+    "code": "0193BGB",
+    "name": "中外运物流（福建）有限公司（总部）（合并）",
+    "shortName": "",
+    "parentCode": "0193GB"
+  },
+  {
+    "code": "0193",
+    "name": "中外运物流（福建）有限公司",
+    "shortName": "福建物流",
+    "parentCode": "0193BGB"
+  },
+  {
+    "code": "01930001",
+    "name": "中外运物流（福建）有限公司厦门分公司",
+    "shortName": "物流福建厦门",
+    "parentCode": "0193BGB"
+  },
+  {
+    "code": "0342",
+    "name": "漳州开发区招商石化有限公司",
+    "shortName": "漳州油站",
+    "parentCode": "0193GB"
+  },
+  {
+    "code": "0220",
+    "name": "中外运物流湖南有限公司",
+    "shortName": "湖南物流",
+    "parentCode": "0185GLGB"
+  },
+  {
+    "code": "0655",
+    "name": "招商局国际冷链(深圳)有限公司",
+    "shortName": "CMICL",
+    "parentCode": "0185GLGB"
+  },
+  {
+    "code": "1317",
+    "name": "中外运物流广西有限公司",
+    "shortName": "招商广西",
+    "parentCode": "0185GLGB"
+  },
+  {
+    "code": "2037",
+    "name": "中外运物流（海南）有限公司",
+    "shortName": "广西久运",
+    "parentCode": "0185GLGB"
+  },
+  {
+    "code": "0195GLGB",
+    "name": "外运物流华东区域（合并）",
+    "shortName": "",
+    "parentCode": "0011GB"
+  },
+  {
+    "code": "0195GB",
+    "name": "中外运物流华东有限公司（合并）",
+    "shortName": "",
+    "parentCode": "0195GLGB"
+  },
+  {
+    "code": "0195",
+    "name": "中外运物流华东有限公司",
+    "shortName": "上海物流",
+    "parentCode": "0195GB"
+  },
+  {
+    "code": "0198",
+    "name": "招商局物流集团上海奉贤有限公司",
+    "shortName": "上海奉贤",
+    "parentCode": "0195GB"
+  },
+  {
+    "code": "08720001",
+    "name": "康新物流（天津）有限公司上海分公司",
+    "shortName": "康新物流上海",
+    "parentCode": "0195GB"
+  },
+  {
+    "code": "0974",
+    "name": "中外运物流供应链管理（苏州）有限公司",
+    "shortName": "苏州物流",
+    "parentCode": "0195GB"
+  },
+  {
+    "code": "1566",
+    "name": "上海中外运冷链运输有限公司",
+    "shortName": "冷链运输",
+    "parentCode": "0195GB"
+  },
+  {
+    "code": "21860006",
+    "name": "中国外运物流发展有限公司上海分公司",
+    "shortName": "物流发展上海",
+    "parentCode": "0195GB"
+  },
+  {
+    "code": "0205GB",
+    "name": "南京公司（合并）",
+    "shortName": "",
+    "parentCode": "0195GLGB"
+  },
+  {
+    "code": "0205",
+    "name": "中外运物流南京有限公司",
+    "shortName": "南京物流",
+    "parentCode": "0205GB"
+  },
+  {
+    "code": "21860005",
+    "name": "中国外运物流发展有限公司南京分公司",
+    "shortName": "物流发展南京",
+    "parentCode": "0205GB"
+  },
+  {
+    "code": "0988",
+    "name": "中外运物流供应链管理（扬州）有限公司",
+    "shortName": "CMLYZ",
+    "parentCode": "0195GLGB"
+  },
+  {
+    "code": "1052",
+    "name": "中外运物流宁波有限公司",
+    "shortName": "ZWYWLNB",
+    "parentCode": "0195GLGB"
+  },
+  {
+    "code": "1081",
+    "name": "中外运物流镇江有限公司",
+    "shortName": "镇江物流",
+    "parentCode": "0195GLGB"
+  },
+  {
+    "code": "1270",
+    "name": "中外运物流南昌有限公司",
+    "shortName": "物流南昌",
+    "parentCode": "0195GLGB"
+  },
+  {
+    "code": "2542GB",
+    "name": "嘉兴公司（合并）",
+    "shortName": "",
+    "parentCode": "0195GLGB"
+  },
+  {
+    "code": "01950002",
+    "name": "中外运物流华东有限公司杭州分公司",
+    "shortName": "ZWYWLHDHZFGS",
+    "parentCode": "2542GB"
+  },
+  {
+    "code": "2542",
+    "name": "嘉兴中外运物流有限公司",
+    "shortName": "嘉兴物流",
+    "parentCode": "2542GB"
+  },
+  {
+    "code": "5210",
+    "name": "中外运物流供应链管理（昆山）有限公司",
+    "shortName": "物流昆山",
+    "parentCode": "0195GLGB"
+  },
+  {
+    "code": "0206BJGB",
+    "name": "华北公司（合并）",
+    "shortName": "",
+    "parentCode": "0011GB"
+  },
+  {
+    "code": "0206",
+    "name": "中外运物流华北有限公司",
+    "shortName": "北京物流",
+    "parentCode": "0206BJGB"
+  },
+  {
+    "code": "02060001",
+    "name": "中外运物流华北有限公司河北分公司",
+    "shortName": "河北分公司",
+    "parentCode": "0206BJGB"
+  },
+  {
+    "code": "1121",
+    "name": "中外运物流供应链管理（内蒙古）有限公司",
+    "shortName": "物流内蒙",
+    "parentCode": "0206BJGB"
+  },
+  {
+    "code": "15870001",
+    "name": "中外运久凌储运有限公司北京分公司",
+    "shortName": "久凌北京分",
+    "parentCode": "0206BJGB"
+  },
+  {
+    "code": "0210",
+    "name": "中外运物流供应链（山东）有限公司",
+    "shortName": "物流山东",
+    "parentCode": "0011GB"
+  },
+  {
+    "code": "0211GLGB",
+    "name": "外运物流西南区域（合并）",
+    "shortName": "",
+    "parentCode": "0011GB"
+  },
+  {
+    "code": "0211GB",
+    "name": "中外运物流西南有限公司（合并）",
+    "shortName": "",
+    "parentCode": "0211GLGB"
+  },
+  {
+    "code": "0211",
+    "name": "中外运物流西南有限公司",
+    "shortName": "成都物流",
+    "parentCode": "0211GB"
+  },
+  {
+    "code": "0214",
+    "name": "招商局物流集团四川有限公司",
+    "shortName": "四川物流",
+    "parentCode": "0211GB"
+  },
+  {
+    "code": "1957",
+    "name": "四川中外运久运物流有限公司",
+    "shortName": "四川久运",
+    "parentCode": "0211GB"
+  },
+  {
+    "code": "5301",
+    "name": "中外运冷链物流（成都）有限公司",
+    "shortName": "外运冷链成都公司",
+    "parentCode": "0211GB"
+  },
+  {
+    "code": "0216",
+    "name": "招商局物流集团重庆有限公司",
+    "shortName": "重庆物流",
+    "parentCode": "0211GLGB"
+  },
+  {
+    "code": "1248",
+    "name": "中外运物流（云南）有限公司",
+    "shortName": "物流云南",
+    "parentCode": "0211GLGB"
+  },
+  {
+    "code": "2638",
+    "name": "成都中外运物流有限公司",
+    "shortName": "成都物流发展",
+    "parentCode": "0211GLGB"
+  },
+  {
+    "code": "5549",
+    "name": "中外运物流（贵州）有限公司",
+    "shortName": "贵州公司",
+    "parentCode": "0211GLGB"
+  },
+  {
+    "code": "0217GLGB",
+    "name": "外运物流东北区域（合并）",
+    "shortName": "",
+    "parentCode": "0011GB"
+  },
+  {
+    "code": "0217DBGB",
+    "name": "东北公司（合并）",
+    "shortName": "",
+    "parentCode": "0217GLGB"
+  },
+  {
+    "code": "0217",
+    "name": "中外运物流东北有限公司",
+    "shortName": "物流东北",
+    "parentCode": "0217DBGB"
+  },
+  {
+    "code": "1795",
+    "name": "沈阳中外运久凌物流发展有限公司",
+    "shortName": "沈阳久凌",
+    "parentCode": "0217DBGB"
+  },
+  {
+    "code": "2589GB",
+    "name": "中外运物流供应链管理（沈阳）有限公司（合并）",
+    "shortName": "",
+    "parentCode": "0217DBGB"
+  },
+  {
+    "code": "2589",
+    "name": "中外运物流供应链管理（沈阳）有限公司",
+    "shortName": "沈阳物流发展",
+    "parentCode": "2589GB"
+  },
+  {
+    "code": "25890001",
+    "name": "中外运物流供应链管理（沈阳）有限公司大连分公司",
+    "shortName": "外运物流大连",
+    "parentCode": "2589GB"
+  },
+  {
+    "code": "0218",
+    "name": "中外运物流供应链管理哈尔滨有限公司",
+    "shortName": "哈尔滨物流",
+    "parentCode": "0217GLGB"
+  },
+  {
+    "code": "0873",
+    "name": "中外运冷链物流哈尔滨有限公司",
+    "shortName": "KXLHB",
+    "parentCode": "0217GLGB"
+  },
+  {
+    "code": "0989",
+    "name": "招商局物流集团长春有限公司",
+    "shortName": "长春物流",
+    "parentCode": "0217GLGB"
+  },
+  {
+    "code": "0233GB",
+    "name": "深圳中理外轮理货有限公司（合并）",
+    "shortName": "",
+    "parentCode": "0011GB"
+  },
+  {
+    "code": "0233",
+    "name": "深圳中理外轮理货有限公司",
+    "shortName": "蛇口外理",
+    "parentCode": "0233GB"
+  },
+  {
+    "code": "02330001",
+    "name": "深圳中理外轮理货有限公司东莞分公司",
+    "shortName": "中理东莞",
+    "parentCode": "0233GB"
+  },
+  {
+    "code": "02330002",
+    "name": "深圳中理外轮理货有限公司佛山分公司",
+    "shortName": "",
+    "parentCode": "0233GB"
+  },
+  {
+    "code": "02330003",
+    "name": "深圳中理外轮理货有限公司中山市分公司",
+    "shortName": "深圳中理中山分公司",
+    "parentCode": "0233GB"
+  },
+  {
+    "code": "0833TJGB",
+    "name": "天津（合并）",
+    "shortName": "",
+    "parentCode": "0011GB"
+  },
+  {
+    "code": "0209",
+    "name": "招商局物流集团（天津）有限公司",
+    "shortName": "天津物流",
+    "parentCode": "0833TJGB"
+  },
+  {
+    "code": "0833",
+    "name": "中外运物流（天津）有限公司",
+    "shortName": "新天津公司",
+    "parentCode": "0833TJGB"
+  },
+  {
+    "code": "0872",
+    "name": "中外运冷链物流（天津）有限公司",
+    "shortName": "KXLTJ",
+    "parentCode": "0833TJGB"
+  },
+  {
+    "code": "0888",
+    "name": "维益食品（天津）有限公司",
+    "shortName": "RICHTJ",
+    "parentCode": "0833TJGB"
+  },
+  {
+    "code": "15870010",
+    "name": "中外运久凌储运有限公司天津分公司",
+    "shortName": "久凌天津分",
+    "parentCode": "0833TJGB"
+  },
+  {
+    "code": "0982GLGB",
+    "name": "外运物流华中区域（合并）",
+    "shortName": "",
+    "parentCode": "0011GB"
+  },
+  {
+    "code": "0219HBGSHZGB",
+    "name": "湖北公司汇总（合并）",
+    "shortName": "",
+    "parentCode": "0982GLGB"
+  },
+  {
+    "code": "00110002",
+    "name": "中外运物流有限公司武汉分公司",
+    "shortName": "物流武汉",
+    "parentCode": "0219HBGSHZGB"
+  },
+  {
+    "code": "0219",
+    "name": "中外运物流湖北有限公司",
+    "shortName": "湖北物流",
+    "parentCode": "0219HBGSHZGB"
+  },
+  {
+    "code": "0934",
+    "name": "招商局物流集团武汉有限公司",
+    "shortName": "武汉企兴",
+    "parentCode": "0219HBGSHZGB"
+  },
+  {
+    "code": "15870009",
+    "name": "中外运久凌储运有限公司武汉分公司",
+    "shortName": "久凌武汉分",
+    "parentCode": "0219HBGSHZGB"
+  },
+  {
+    "code": "0977WHGSHZGB",
+    "name": "芜湖公司汇总（合并）",
+    "shortName": "",
+    "parentCode": "0982GLGB"
+  },
+  {
+    "code": "00110001",
+    "name": "中外运物流有限公司芜湖分公司",
+    "shortName": "物流芜湖",
+    "parentCode": "0977WHGSHZGB"
+  },
+  {
+    "code": "0977",
+    "name": "中外运物流芜湖有限公司",
+    "shortName": "芜湖物流",
+    "parentCode": "0977WHGSHZGB"
+  },
+  {
+    "code": "0982GB",
+    "name": "华中公司（合并）",
+    "shortName": "",
+    "parentCode": "0982GLGB"
+  },
+  {
+    "code": "0982",
+    "name": "中外运物流华中有限公司",
+    "shortName": "安徽物流",
+    "parentCode": "0982GB"
+  },
+  {
+    "code": "2586",
+    "name": "合肥中外运物流发展有限公司",
+    "shortName": "合肥物流发展",
+    "parentCode": "0982GB"
+  },
+  {
+    "code": "1096GB",
+    "name": "外运物流青岛公司（合并）",
+    "shortName": "",
+    "parentCode": "0982GLGB"
+  },
+  {
+    "code": "1096",
+    "name": "招商局物流集团青岛有限公司",
+    "shortName": "青岛物流",
+    "parentCode": "1096GB"
+  },
+  {
+    "code": "2580",
+    "name": "荣成中外运物流发展有限公司",
+    "shortName": "荣成物流发展",
+    "parentCode": "1096GB"
+  },
+  {
+    "code": "3085",
+    "name": "中国外运物流发展合肥有限公司",
+    "shortName": "物流发展合肥",
+    "parentCode": "0982GLGB"
+  },
+  {
+    "code": "1322GLGB",
+    "name": "外运物流西北区域（合并）",
+    "shortName": "",
+    "parentCode": "0011GB"
+  },
+  {
+    "code": "0936HBGLGB",
+    "name": "新疆公司汇总（合并）",
+    "shortName": "",
+    "parentCode": "1322GLGB"
+  },
+  {
+    "code": "0929",
+    "name": "招商局物流集团新疆有限公司",
+    "shortName": "新疆物流",
+    "parentCode": "0936HBGLGB"
+  },
+  {
+    "code": "0936GB",
+    "name": "中外运物流新疆有限公司（合并）",
+    "shortName": "",
+    "parentCode": "0936HBGLGB"
+  },
+  {
+    "code": "0936",
+    "name": "中外运物流新疆有限公司",
+    "shortName": "乌鲁木齐物流",
+    "parentCode": "0936GB"
+  },
+  {
+    "code": "13530003",
+    "name": "中外运物流新疆有限公司准东经济技术开发区分公司",
+    "shortName": "准东分公司",
+    "parentCode": "0936GB"
+  },
+  {
+    "code": "6051",
+    "name": "中外运物流（阿拉山口）有限公司",
+    "shortName": "阿拉山口公司",
+    "parentCode": "0936HBGLGB"
+  },
+  {
+    "code": "1322HBGLGB",
+    "name": "西北公司汇总（合并）",
+    "shortName": "",
+    "parentCode": "1322GLGB"
+  },
+  {
+    "code": "0221",
+    "name": "招商局物流集团西安有限公司",
+    "shortName": "西安物流",
+    "parentCode": "1322HBGLGB"
+  },
+  {
+    "code": "1322GB",
+    "name": "中外运物流西北有限公司（合并）",
+    "shortName": "",
+    "parentCode": "1322HBGLGB"
+  },
+  {
+    "code": "1322",
+    "name": "中外运物流西北有限公司",
+    "shortName": "物流陕西公司",
+    "parentCode": "1322GB"
+  },
+  {
+    "code": "5502",
+    "name": "西藏青铁外运物流有限公司",
+    "shortName": "青铁外运",
+    "parentCode": "1322GB"
+  },
+  {
+    "code": "15870006",
+    "name": "中外运久凌储运有限公司西安分公司",
+    "shortName": "久凌西安分",
+    "parentCode": "1322HBGLGB"
+  },
+  {
+    "code": "6230",
+    "name": "中外运铁集（西安）国际物流有限公司",
+    "shortName": "中外运铁集",
+    "parentCode": "1322HBGLGB"
+  },
+  {
+    "code": "1353GB",
+    "name": "深圳市恒路物流供应链管理有限公司（合并）",
+    "shortName": "",
+    "parentCode": "0011GB"
+  },
+  {
+    "code": "1353BGB",
+    "name": "深圳市恒路物流供应链管理有限公司（总部合并）",
+    "shortName": "",
+    "parentCode": "1353GB"
+  },
+  {
+    "code": "1353",
+    "name": "深圳市恒路物流供应链管理有限公司",
+    "shortName": "恒路物流",
+    "parentCode": "1353BGB"
+  },
+  {
+    "code": "13530004",
+    "name": "深圳市恒路物流供应链管理有限公司长沙分公司",
+    "shortName": "恒路长沙公司",
+    "parentCode": "1353BGB"
+  },
+  {
+    "code": "13530005",
+    "name": "深圳市恒路物流供应链管理有限公司上海分公司",
+    "shortName": "恒路上海公司",
+    "parentCode": "1353BGB"
+  },
+  {
+    "code": "13530022",
+    "name": "深圳市恒路物流供应链管理有限公司杭州分公司",
+    "shortName": "恒路杭州",
+    "parentCode": "1353BGB"
+  },
+  {
+    "code": "1504",
+    "name": "东莞市恒路物流有限公司",
+    "shortName": "东莞恒路物流",
+    "parentCode": "1353GB"
+  },
+  {
+    "code": "1456",
+    "name": "招商局新丝路供应链管理有限公司",
+    "shortName": "新丝路公司",
+    "parentCode": "0011GB"
+  },
+  {
+    "code": "2064HNGB",
+    "name": "河南公司（合并）",
+    "shortName": "",
+    "parentCode": "0011GB"
+  },
+  {
+    "code": "1254",
+    "name": "中外运冷链物流（郑州）有限公司",
+    "shortName": "美冷郑州",
+    "parentCode": "2064HNGB"
+  },
+  {
+    "code": "2064",
+    "name": "中外运物流河南有限公司",
+    "shortName": "中外运河南",
+    "parentCode": "2064HNGB"
+  },
+  {
+    "code": "2399",
+    "name": "运航（香港）物流投资有限公司",
+    "shortName": "运航香港",
+    "parentCode": "0011GB"
+  },
+  {
+    "code": "2752GLGB",
+    "name": "国际供应链事业部（合并）",
+    "shortName": "",
+    "parentCode": "0011GB"
+  },
+  {
+    "code": "2670",
+    "name": "中外运供应链管理（上海）有限公司",
+    "shortName": "供应链管理公司",
+    "parentCode": "2752GLGB"
+  },
+  {
+    "code": "2752",
+    "name": "中外运外高桥（上海）国际物流有限公司",
+    "shortName": "上海外高桥",
+    "parentCode": "2752GLGB"
+  },
+  {
+    "code": "3449GB",
+    "name": "中外运冷链物流有限公司（合并）",
+    "shortName": "",
+    "parentCode": "0011GB"
+  },
+  {
+    "code": "0183",
+    "name": "招商局冷链物流（中国）有限公司",
+    "shortName": "CCLCN",
+    "parentCode": "3449GB"
+  },
+  {
+    "code": "0281",
+    "name": "招商局冷链物流（香港）有限公司",
+    "shortName": "CCLHK",
+    "parentCode": "3449GB"
+  },
+  {
+    "code": "0844",
+    "name": "SMART ALLY HOLDINGS LIMITED",
+    "shortName": "SAHL",
+    "parentCode": "3449GB"
+  },
+  {
+    "code": "0848",
+    "name": "中外运冷链物流（香港）有限公司",
+    "shortName": "冷链物流香港",
+    "parentCode": "3449GB"
+  },
+  {
+    "code": "0872GB",
+    "name": "中外运冷链物流（天津）有限公司(合并)",
+    "shortName": "",
+    "parentCode": "3449GB"
+  },
+  {
+    "code": "08720003",
+    "name": "中外运冷链物流（天津）有限公司北京分公司",
+    "shortName": "外运冷链北京",
+    "parentCode": "0872GB"
+  },
+  {
+    "code": "08720005",
+    "name": "中外运冷链物流（天津）有限公司青岛分公司",
+    "shortName": "外运冷链青岛",
+    "parentCode": "0872GB"
+  },
+  {
+    "code": "0962",
+    "name": "中外运冷链供应链（深圳）有限公司",
+    "shortName": "CMATS",
+    "parentCode": "3449GB"
+  },
+  {
+    "code": "3449",
+    "name": "中外运冷链物流有限公司",
+    "shortName": "外运冷链",
+    "parentCode": "3449GB"
+  },
+  {
+    "code": "5211",
+    "name": "深圳市招华国际会展物流有限公司",
+    "shortName": "",
+    "parentCode": "0011GB"
+  },
+  {
+    "code": "WYWLZBGB",
+    "name": "外运物流总部（合并）",
+    "shortName": "",
+    "parentCode": "0011GB"
+  },
+  {
+    "code": "0011",
+    "name": "中外运物流有限公司",
+    "shortName": "物流总部",
+    "parentCode": "WYWLZBGB"
+  },
+  {
+    "code": "1587",
+    "name": "中外运久凌储运有限公司",
+    "shortName": "久凌本部",
+    "parentCode": "WYWLZBGB"
+  },
+  {
+    "code": "2186",
+    "name": "中国外运物流发展有限公司",
+    "shortName": "物流发展",
+    "parentCode": "WYWLZBGB"
+  }
+]
