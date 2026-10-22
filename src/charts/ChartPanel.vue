@@ -6,6 +6,14 @@ type LegendSelectionEvent = { name: string; selected: Record<string, boolean> }
 const emit = defineEmits<{ click: [params: echarts.ECElementEvent]; mouseover: [params: echarts.ECElementEvent]; globalout: []; legendselectchanged: [params: LegendSelectionEvent] }>()
 const root = ref<HTMLDivElement>(); let chart: echarts.ECharts | undefined
 let resizeObserver: ResizeObserver | undefined
+function downloadImage(filename = '图表') {
+  if (!chart) return
+  const link = document.createElement('a')
+  link.href = chart.getDataURL({ type: 'png', pixelRatio: 2, backgroundColor: '#fff' })
+  link.download = `${filename}.png`
+  link.click()
+}
+defineExpose({ downloadImage })
 function render(){
   if(!root.value) return
   chart ??= echarts.init(root.value)

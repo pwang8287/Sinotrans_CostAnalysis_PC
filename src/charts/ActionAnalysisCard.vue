@@ -22,13 +22,13 @@ const scatterOption: EChartsOption = {
     formatter: params => {
       const item = Array.isArray(params) ? params[0] : params
       const point = item.data as { business: string; action: string; value: [number, number] }
-      return `${item.marker} ${point.action} · ${point.business}<br/>去年同期变动成本：${formatValue(point.value[0])} 元<br/>当期变动成本：${formatValue(point.value[1])} 元`
+      return `${item.marker} ${point.action} · ${point.business}<br/>去年同期变动成本：${formatValue(point.value[0])} 万元<br/>当期变动成本：${formatValue(point.value[1])} 万元`
     },
   },
-  graphic: [{ type: 'text', left: labelLeft, top: 26, silent: true, style: { text: '当期变动成本(元)', font: '10px -apple-system,BlinkMacSystemFont,PingFang SC,Microsoft YaHei,sans-serif', fill: '#718096' } }],
+  graphic: [{ type: 'text', left: labelLeft, top: 26, silent: true, style: { text: '当期变动成本(万元)', font: '10px -apple-system,BlinkMacSystemFont,PingFang SC,Microsoft YaHei,sans-serif', fill: '#718096' } }],
   grid: { left: plotLeft, right: 12, top: 48, bottom: 40, containLabel: false },
   xAxis: {
-    type: 'value', name: '去年同期变动成本（元）', nameLocation: 'middle', nameGap: 25,
+    type: 'value', name: '去年同期变动成本(万元)', nameLocation: 'middle', nameGap: 25,
     nameTextStyle: { fontSize: 10, color: '#718096' },
     scale: true, boundaryGap: ['8%', '12%'], splitNumber: 4,
     axisLabel: { fontSize: 9, hideOverlap: true }, axisTick: { show: false },
